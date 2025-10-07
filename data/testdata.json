@@ -1,0 +1,67 @@
+[
+  {
+    "user_id": 1,
+    "username": "sarah_uni",
+    "email": "sarah123@example.com",
+    "password": "password123",
+    "expenses": {
+      "rent": 650,
+      "food": 220,
+      "travel": 60,
+      "clothing": 45,
+      "other": 75
+    }
+  },
+  {
+    "user_id": 2,
+    "username": "james_mcr",
+    "email": "james.manchester@example.com",
+    "password": "secure456",
+    "expenses": {
+      "rent": 720,
+      "food": 250,
+      "travel": 85,
+      "clothing": 55,
+      "other": 90
+    }
+  },
+  {
+    "user_id": 3,
+    "username": "amy_arts",
+    "email": "amy.arts@example.com",
+    "password": "unilife789",
+    "expenses": {
+      "rent": 600,
+      "food": 200,
+      "travel": 40,
+      "clothing": 70,
+      "other": 50
+    }
+  },
+  {
+    "user_id": 4,
+    "username": "dan_engineer",
+    "email": "dan.eng@example.com",
+    "password": "buildit999",
+    "expenses": {
+      "rent": 800,
+      "food": 300,
+      "travel": 120,
+      "clothing": 60,
+      "other": 100
+    }
+  },
+  {
+    "user_id": 5,
+    "username": "maria_law",
+    "email": "maria.law@example.com",
+    "password": "justice101",
+    "expenses": {
+      "rent": 680,
+      "food": 240,
+      "travel": 75,
+      "clothing": 65,
+      "other": 110
+    }
+  }
+]
