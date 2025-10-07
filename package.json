@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Rambo7X7/Rion/issues"
   },
-  "homepage": "https://github.com/Rambo7X7/Rion#readme"
+  "homepage": "https://github.com/Rambo7X7/Rion#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
 }
